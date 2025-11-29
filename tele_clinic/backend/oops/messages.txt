@@ -1,0 +1,120 @@
+{
+  "text": "Injury",
+  "chatId": "5535869992"
+}
+{
+  "text": "Yes",
+  "chatId": "5535869992"
+}
+{
+  "text": "/start",
+  "chatId": "7977085303"
+}
+{
+  "text": "/start",
+  "chatId": "7977085303"
+}
+{
+  "text": "Hi",
+  "chatId": "7977085303"
+}
+{
+  "text": "Not well",
+  "chatId": "7977085303"
+}
+{
+  "text": "Under the water",
+  "chatId": "7977085303"
+}
+{
+  "text": "Pls help me",
+  "chatId": "7977085303"
+}
+{
+  "latitude": 25.131809,
+  "longitude": 55.419279,
+  "chatId": "7977085303"
+}
+{
+  "text": "Thanks",
+  "chatId": "7977085303"
+}
+{
+  "text": "/start",
+  "chatId": "8346807880"
+}
+{
+  "text": "Hi I need help",
+  "chatId": "8346807880"
+}
+{
+  "latitude": 25.131837,
+  "longitude": 55.419362,
+  "chatId": "8346807880"
+}
+{
+  "text": "Ask Help",
+  "chatId": "8346807880"
+}
+{
+  "text": "Himesh ki mkc",
+  "chatId": "8346807880"
+}
+{
+  "text": "Injured",
+  "chatId": "6304460986"
+}
+{
+  "text": "Injured",
+  "chatId": "6304460986"
+}
+{
+  "text": "Naughty boyyyyyyy UHHHHHH",
+  "chatId": "6304460986"
+}
+{
+  "text": "UHHHH",
+  "chatId": "6304460986"
+}
+{
+  "latitude": 25.131821,
+  "longitude": 55.419374,
+  "chatId": "6304460986"
+}
+{
+  "latitude": 25.131821,
+  "longitude": 55.419374,
+  "chatId": "6304460986"
+}
+{
+  "text": "Broken 🦵🏼 leg",
+  "chatId": "6304460986"
+}
+{
+  "text": "Broken 🦵🏼 leg",
+  "chatId": "6304460986"
+}
+{
+  "text": "Broken 🦵🏼 leg",
+  "chatId": "6304460986"
+}
+{
+  "text": "Broken 🦵🏼 leg",
+  "chatId": "6304460986"
+}
+{
+  "text": "Leg broken",
+  "chatId": "6304460986"
+}
+{
+  "text": "Leg broke",
+  "chatId": "6304460986"
+}
+{
+  "text": "Help",
+  "chatId": "6304460986"
+}
+{
+  "text": "Help",
+  "chatId": "6304460986"
+}

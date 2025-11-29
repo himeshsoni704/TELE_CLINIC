@@ -1,0 +1,6 @@
+BITS_ID|Date|Medication|Dosage|Doctor
+2024A7PS0218U|22-11-2024|Paracetamol 500mg|Twice a day for 5 days|Dr. Ahmed
+2024A7PS0218U|15-10-2024|Amoxicillin 250mg|Three times a day for 7 days|Dr. Fatima
+2024A7PS0218U,2025-11-29 23:04:40,ADMIN_001,Clinic Staff,Cocaine,snort
+2024A7PS0254U,2025-11-29 23:22:22,ADMIN_001,Clinic Staff,fentanyl,snort
+2024A7PS0254,2025-11-29 23:23:42,ADMIN_001,Clinic Staff,fentanyl,snort
