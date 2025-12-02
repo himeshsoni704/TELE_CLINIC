@@ -121,7 +121,7 @@ public class AutoReplyBot extends TelegramLongPollingBot {
 
     @Override
     public String getBotToken() {
-        return "8509775935:AAH64ApWxy7TPfNWpMSWqN_NfNSFt8FvM1k";
+        return "85097_API KEY HERE_8FvM1k";
     }
 
     public static void main(String[] args) {
@@ -134,3 +134,4 @@ public class AutoReplyBot extends TelegramLongPollingBot {
         }
     }
 }
+
